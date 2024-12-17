@@ -1,0 +1,8 @@
+name: pdfdl
+channels:
+  - defaults
+dependencies:
+  - python=3.9  
+  - pip
+  - pip:
+      - selenium>=4.0.0
