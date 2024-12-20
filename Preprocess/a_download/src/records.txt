@@ -1,5 +1,4 @@
 ScienceDirect:54 
--Advances in Applied Energy https://www.sciencedirect.com/journal/advances-in-applied-energy until:Volume 5 Issue 5
 
 Ding：
 Deep Resources Engineering https://www.sciencedirect.com/journal/deep-resources-engineering
@@ -38,6 +37,7 @@ Earth History and Biodiversity https://www.sciencedirect.com/journal/earth-histo
 
 
 Yang Meng
+-Advances in Applied Energy https://www.sciencedirect.com/journal/advances-in-applied-energy until:Volume 5 Issue 5
 Earthquake Research Advances https://www.sciencedirect.com/journal/earthquake-research-advances
 Earthquake Science https://www.sciencedirect.com/journal/earthquake-science
 Geodata and AI https://www.sciencedirect.com/journal/geodata-and-ai
