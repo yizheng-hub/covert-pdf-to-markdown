@@ -1,8 +1,8 @@
 ScienceDirect:54 
 
 Ding：
-Deep Resources Engineering https://www.sciencedirect.com/journal/deep-resources-engineering
-Earth Energy Science https://www.sciencedirect.com/journal/earth-energy-science
+*Deep Resources Engineering https://www.sciencedirect.com/journal/deep-resources-engineering
+*Earth Energy Science https://www.sciencedirect.com/journal/earth-energy-science
 Energy and AI https://www.sciencedirect.com/journal/energy-and-ai
 Energy Storage and Saving https://www.sciencedirect.com/journal/energy-storage-and-saving
 Engineering https://www.sciencedirect.com/journal/engineering
