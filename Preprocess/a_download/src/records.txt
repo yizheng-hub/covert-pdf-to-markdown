@@ -41,7 +41,7 @@ Yang Meng
 *Earthquake Research Advances https://www.sciencedirect.com/journal/earthquake-research-advances until:Volume 4 Issue 4
 *Earthquake Science https://www.sciencedirect.com/journal/earthquake-science until:Volume 38 Issue 1
 *Geodata and AI https://www.sciencedirect.com/journal/geodata-and-ai until:Volume 1 Issue 6
--Geoscience Frontiers https://www.sciencedirect.com/journal/geoscience-frontiers until:Volume 5 Issue 6
+-Geoscience Frontiers https://www.sciencedirect.com/journal/geoscience-frontiers until:Volume 10 Issue 2
 Geosystems and Geoenvironment https://www.sciencedirect.com/journal/geosystems-and-geoenvironment
 Global and Earth Surface Processes Change https://www.sciencedirect.com/journal/global-and-earth-surface-processes-change
 Green and Smart Mining Engineering https://www.sciencedirect.com/journal/green-and-smart-mining-engineering
