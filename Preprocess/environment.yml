@@ -1,8 +1,14 @@
 name: pdfdl
 channels:
+  - pytorch
+  - nvidia
   - defaults
 dependencies:
   - python=3.9  
   - pip
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=12.1
   - pip:
-      - selenium>=4.0.0
+      - -r requirements.txt
